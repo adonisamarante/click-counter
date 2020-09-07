@@ -1,6 +1,6 @@
 ## About this project
 
-Small project for learning the basics of testing with Jest and Enzime.
+Small project for learning the basics of testing with Jest and Enzyme.<br />
 Code wrote while watching a course from Udemy.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
